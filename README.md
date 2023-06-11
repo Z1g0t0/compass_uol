@@ -22,9 +22,7 @@ Como mencionado, no estágio anterior já tive experiência com SCRUM, assim com
     2. Entender o mercado e as necessidades do cliente.
     3. Traduzir as estratégias do(s) product manager(s) em _user stories_ para que possam se definir em tasks para o time de desenvolvimento.
     4. Avaliação de testes e se os resultados atingem o objetivo esperado.
-
     <br>
-
     No geral, se resposabilizar pelo relacionamento entre produto e desenvolvimento.
     <br>
 
