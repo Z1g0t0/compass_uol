@@ -8,5 +8,7 @@ Já tive experiência com Python em um estágio anterior, onde era responsável 
 
 Gosto de jogar online, conversar com amigos no discord e ocasionalmente editar vídeos. [Aqui](https://www.youtube.com/watch?v=ewrH-qLSbXs) vai exemplo de um vídeo que editei como um trabalho da faculdade.
 
-## :runner: Sprint 1
+## :runner: Sprint 1:
+
+### :octocat: Git e Github:
 
