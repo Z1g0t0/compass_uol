@@ -12,7 +12,7 @@ Gosto de jogar online, conversar com amigos no discord e ocasionalmente editar v
 
 Durante esta primeira sprint fui o líder da squad 5. Procurei demonstrar iniciativa no quesito de discussão sobre o material passado, propus reunirmos antes das dailys para tirarmos dúvidas de uns aos outros, acompanhar o progresso de cada um, e passar um pouco da experiência que tive pois já havia usado as tecnologias passadas em um estágio anterior.
 
-### :rugby_football: SCRUM:
+#### :rugby_football: SCRUM:
 
 Como mencionado, no estágio anterior já tive experiência com SCRUM, assim como nas dailys desta primeira sprint, participando de reuniões diárias relatando o progresso e eventuais problemas que impediam ou postergavam a evolução das tasks e/ou estudos. O curso ajudou a esclarecer melhor as responsabilidades do Product Owner e Scrum Master.
 
@@ -26,7 +26,6 @@ Como mencionado, no estágio anterior já tive experiência com SCRUM, assim com
     <br>
 
     No geral, se resposabilizar pelo relacionamento entre produto e desenvolvimento.
-
     <br>
 
 2. Scrum Master:
@@ -38,10 +37,10 @@ Como mencionado, no estágio anterior já tive experiência com SCRUM, assim com
     <br>
 
 
-### :octocat: Git e Github:
+#### :octocat: Git e Github:
 
 Como também mencionado, já estava familiarizado com o básico do git, aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de submodules, logs mais detalhados, markdown, ferramentas do GitHub e boas práticas em geral.
 
-### :penguin: Linux:
+#### :penguin: Linux:
 
 Também já estava familiarizado com os comandos de linux, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Sempre gostei do editor vim desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
