@@ -1,6 +1,6 @@
 # __Eduardo Takeshi Voltareli Suzuki__
 
-## [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [<img src="img/Linkedin-logo-icon.png" width="" height="33">](https://www.linkedin.com/in/eduardo-suzuki888/)
+### [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [<img src="img/Linkedin-logo-icon.png" width="" height="33">](https://www.linkedin.com/in/eduardo-suzuki888/)
 
 Saudações, sou estudante de Sistemas de Informação na UTFPR, sede de Curitiba, onde também moro, e atualmente estou no 6º período. Originalmente venho do interior de São Paulo, cidade de Presidente Prudente, onde cursei brevemente Ciência da Computação pela UNESP de lá.
 
