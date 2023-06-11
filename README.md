@@ -60,7 +60,7 @@ Um exemplo de comandos utilizados na criação deste repositório:
 ```
 mkdir -p compass_uol
 cd compass_uol
-vi README.md
+vim README.md
 ```
 
 E caso não saibam _**:x**_ para salvar e sair do _vim_ :sweat_smile:
