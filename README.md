@@ -41,11 +41,11 @@ Como mencionado, no estágio anterior já tive experiência com _scrum_, assim c
 
 #### :octocat: **Git e Github**:
 
-Como também mencionado, já estava familiarizado com o básico do _git_, aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de _submodules_, _logs_ mais detalhados, _markdown_ e boas práticas em geral.
+Como também mencionado, já estava familiarizado com o básico do _git_, e tenho usado para armazenar arquivos _config_ e projetos da universidade. Aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de _submodules_, _logs_ mais detalhados, _markdown_ e boas práticas em geral.
 
 #### :penguin: **Linux**:
 
-Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Sempre gostei do editor _vim_ desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
+Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Possuo um _notebook_ com ubuntu instalado. Sempre gostei do editor _vim_ desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
 
 ## :runner: __Sprint 2__:
 
