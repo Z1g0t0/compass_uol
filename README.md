@@ -41,7 +41,7 @@ Como mencionado, no estágio anterior já tive experiência com _SCRUM_, assim c
 
 #### :octocat: **Git e Github**:
 
-Como também mencionado, já estava familiarizado com o básico do _git_, aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de submodules, _logs_ mais detalhados, markdown, ferramentas do _GitHub_ e boas práticas em geral.
+Como também mencionado, já estava familiarizado com o básico do _git_, aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de _submodules_, _logs_ mais detalhados, _markdown_ e boas práticas em geral.
 
 #### :penguin: **Linux**:
 
