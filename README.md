@@ -46,3 +46,7 @@ Como também mencionado, já estava familiarizado com o básico do _git_, aprove
 #### :penguin: **Linux**:
 
 Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Sempre gostei do editor _vim_ desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
+
+## :runner: __Sprint 2__:
+
+...
