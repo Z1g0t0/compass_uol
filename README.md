@@ -1,5 +1,8 @@
 # __Eduardo Takeshi Voltareli Suzuki__
 
+[eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  <img src="img/Linkedin-logo-icon.png" width="" height="33"> 
+
 Saudações, sou estudante de Sistemas de Informação na UTFPR, sede de Curitiba, onde também moro, e atualmente estou no 6º período. Originalmente venho do interior de São Paulo, cidade de Presidente Prudente, onde cursei brevemente Ciência da Computação pela UNESP de lá.
 
 Há algum tempo já venho tendo interesse na área de análise/ciência/engenharia de dados e à procura de uma oportunidade de estágio relacionado, inclusive cursando uma matéria optativa de introdução a ciência de dados ofertada pela universidade.
@@ -23,7 +26,7 @@ Como mencionado, no estágio anterior já tive experiência com SCRUM, assim com
     3. Traduzir as estratégias do(s) product manager(s) em _user stories_ para que possam se definir em tasks para o time de desenvolvimento.
     4. Avaliação de testes e se os resultados atingem o objetivo esperado.
     <br>
-    No geral, se resposabilizar pelo relacionamento entre produto e desenvolvimento.
+    No geral, se responsabilizar pelo relacionamento entre produto e desenvolvimento.
     <br>
 
 2. **Scrum Master**:
