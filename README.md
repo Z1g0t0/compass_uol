@@ -63,7 +63,7 @@ cd compass_uol
 vi README.md
 ```
 
-_E caso não saibam :x_ para salvar e sair do _vim_ :sweat_smile:
+E caso não saibam _**:x**_ para salvar e sair do _vim_ :sweat_smile:
 
 ## :runner: __Sprint 2__:
 
