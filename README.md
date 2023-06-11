@@ -38,14 +38,32 @@ Como mencionado, no estágio anterior já tive experiência com _scrum_, assim c
 
     <br>
 
-
 #### :octocat: **Git e Github**:
 
-Como também mencionado, já estava familiarizado com o básico do _git_, e tenho usado para armazenar arquivos _config_ e projetos da universidade. Aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de _submodules_, _logs_ mais detalhados, _markdown_ e boas práticas em geral.
+Como também mencionado, já estava familiarizado com o básico do _git_, e já o utilizo para armazenar arquivos _config_ e projetos da universidade. Aproveitei para dar uma revisada no conteúdo e aprender mais sobre a tecnologia, principalmente da seção 4 em diante, o conceito de _submodules_, _logs_ mais detalhados, _markdown_ e boas práticas em geral. 
+
+Um exemplo de comandos utilizados para inicializar este repositório:
+
+```
+git init
+git remote add compass_uol https://github.com/Z1g0t0/compass_uol
+git add .
+git commit -m "Primeiro commit"
+git push
+```
 
 #### :penguin: **Linux**:
 
-Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Possuo um _notebook_ com ubuntu instalado. Sempre gostei do editor _vim_ desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
+Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Possuo um _notebook_ com ubuntu instalado e sempre gostei do editor _vim_ junto com _tmux_ desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
+
+Um exemplo de comandos utilizados na criação deste repositório:
+```
+mkdir -p compass_uol
+cd compass_uol
+vi README.md
+```
+
+_E caso não saibam :x_ para salvar e sair do _vim_ :sweat_smile:
 
 ## :runner: __Sprint 2__:
 
