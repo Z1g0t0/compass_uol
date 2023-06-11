@@ -18,7 +18,7 @@ Durante esta primeira _sprint_ fui o líder da _squad_ 5. Procurei demonstrar in
 
 #### :rugby_football: SCRUM:
 
-Como mencionado, no estágio anterior já tive experiência com _SCRUM_, assim como nas _dailys_ desta primeira sprint, participando de reuniões diárias relatando o progresso e eventuais problemas que impediam ou postergavam a evolução das _tasks_ e/ou estudos. O curso ajudou a esclarecer melhor as responsabilidades do _**Product Owner**_ e _**Scrum Master**_.
+Como mencionado, no estágio anterior já tive experiência com _scrum_, assim como nas _dailys_ desta primeira sprint, participando de reuniões diárias relatando o progresso e eventuais problemas que impediam ou postergavam a evolução das _tasks_ e/ou estudos. O curso ajudou a esclarecer melhor as responsabilidades do _**Product Owner**_ e _**Scrum Master**_.
 
 1. **Product Owner**:
 
