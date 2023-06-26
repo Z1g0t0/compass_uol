@@ -67,4 +67,41 @@ E caso não saibam _**:x**_ para salvar e sair do _vim_ :sweat_smile:
 
 ## :runner: __Sprint 2__:
 
-...
+#### :outbox_tray: **SQL**
+
+_Structued Query Language_, ou _SQL_, é uma linguagem estruturada para realizar consultas aplicadas em base de dados, para a geração de tabelas as quais podem ser extraídas informações que podem agregar valor à diversas análises, como _trends_, padrões, estatisticas, visualizações, etc.
+
+Um exemplo de _query_ realizada para extrair a tabela _Export_1_, encontrada na pasta _Export_
+
+```
+with livros as(
+    select cod, titulo, valor, nome, codeditora, autor
+    from livro 
+    left join editora on 
+        livro.editora = editora.codeditora
+)
+
+select cod as CodLivro, titulo as Titulo, codautor as CodAutor, autor.nome as NomeAutor, valor as Valor, codeditora as CodEditora, livros.nome as NomeEditora
+from livros 
+left join autor on 
+    livros.autor = autor.codautor
+order by valor desc
+limit 10
+```
+
+#### :bar_chart: **Big Data**
+
+Geração de dados cada vez maior dia após dia, é necessário entender os conceitos usados para o armazenamento, os profissionais responsáveis por cada função de análise de dados e o funcionamento de computação em _cloud_.
+
+Exemplo de conceitos visto para armazenamento de dados.
+
+1. **Data Warehouse**
+Sistema de armazenamento de dados com um _schema_ predefinido, porém podendo receber dados de diferentes fontes, voltado para suportar decisões de negócio.
+
+2. **Data Lake**
+Armazenamento de dados estruturados e não estruturados, na sua forma bruta, sem um _schema_ predefinido, podendo receber qualquer tipo de dado.
+
+3. **Data Store**
+Armazenamento de dados com um fim especifico, podendo receber dados de formatos variados, relacionados a uma categoria determinada.
+
+
