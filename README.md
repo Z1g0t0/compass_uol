@@ -93,7 +93,7 @@ limit 10
 
 Geração de dados cada vez maior dia após dia, é necessário entender os conceitos usados para o armazenamento, os profissionais responsáveis por cada função de análise de dados e o funcionamento de computação em _cloud_.
 
-Exemplo de conceitos visto para armazenamento de dados:
+Exemplo de conceitos vistos para armazenamento de dados:
 
 ##### _**Data Warehouse**_
 
