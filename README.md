@@ -96,12 +96,15 @@ Geração de dados cada vez maior dia após dia, é necessário entender os conc
 Exemplo de conceitos visto para armazenamento de dados.
 
 1. **Data Warehouse**
+
 Sistema de armazenamento de dados com um _schema_ predefinido, porém podendo receber dados de diferentes fontes, voltado para suportar decisões de negócio.
 
 2. **Data Lake**
+
 Armazenamento de dados estruturados e não estruturados, na sua forma bruta, sem um _schema_ predefinido, podendo receber qualquer tipo de dado.
 
 3. **Data Store**
+
 Armazenamento de dados com um fim especifico, podendo receber dados de formatos variados, relacionados a uma categoria determinada.
 
 
