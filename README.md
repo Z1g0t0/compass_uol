@@ -93,17 +93,18 @@ limit 10
 
 Geração de dados cada vez maior dia após dia, é necessário entender os conceitos usados para o armazenamento, os profissionais responsáveis por cada função de análise de dados e o funcionamento de computação em _cloud_.
 
-Exemplo de conceitos visto para armazenamento de dados.
+Exemplo de conceitos visto para armazenamento de dados:
 
-##### **Data Warehouse**:
+##### **Data Warehouse**
+
 
 Sistema de armazenamento de dados com um _schema_ predefinido, porém podendo receber dados de diferentes fontes, voltado para suportar decisões de negócio.
 
-##### **Data Lake**:
+##### **Data Lake**
 
 Armazenamento de dados estruturados e não estruturados, na sua forma bruta, sem um _schema_ predefinido, podendo receber qualquer tipo de dado.
 
-##### **Data Store**:
+##### **Data Store**
 
 Armazenamento de dados com um fim especifico, podendo receber dados de formatos variados, relacionados a uma categoria determinada.
 
