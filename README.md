@@ -71,7 +71,7 @@ E caso não saibam _**:x**_ para salvar e sair do _vim_ :sweat_smile:
 
 _Structured Query Language_, ou _SQL_, é uma linguagem estruturada para realizar consultas aplicadas em base de dados, para a geração de tabelas as quais podem ser extraídas informações que podem agregar valor à diversas análises, como _trends_, padrões, estatisticas, visualizações, etc.
 
-Um exemplo de _query_ realizada para extrair a tabela _Export_1_, encontrada na pasta _Export_ usando a base de dados Loja.sql:
+Um exemplo de _query_ realizada para extrair a tabela _Export_1_, encontrada na pasta _Export_ usando a base de dados _biblioteca.sqlite_:
 
 ```
 with livros as(
