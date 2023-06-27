@@ -69,7 +69,7 @@ E caso não saibam _**:x**_ para salvar e sair do _vim_ :sweat_smile:
 
 #### :outbox_tray: **SQL**
 
-_Structued Query Language_, ou _SQL_, é uma linguagem estruturada para realizar consultas aplicadas em base de dados, para a geração de tabelas as quais podem ser extraídas informações que podem agregar valor à diversas análises, como _trends_, padrões, estatisticas, visualizações, etc.
+_Structured Query Language_, ou _SQL_, é uma linguagem estruturada para realizar consultas aplicadas em base de dados, para a geração de tabelas as quais podem ser extraídas informações que podem agregar valor à diversas análises, como _trends_, padrões, estatisticas, visualizações, etc.
 
 Um exemplo de _query_ realizada para extrair a tabela _Export_1_, encontrada na pasta _Export_:
 
@@ -91,12 +91,11 @@ limit 10
 
 #### :bar_chart: **Big Data**
 
-Geração de dados cada vez maior dia após dia, é necessário entender os conceitos usados para o armazenamento, os profissionais responsáveis por cada função de análise de dados e o funcionamento de computação em _cloud_.
+Com a geração de dados cada vez maior dia após dia, é necessário entender os conceitos usados para o armazenamento, os profissionais responsáveis por cada função de análise de dados e o funcionamento de computação em _cloud_.
 
 Exemplo de conceitos vistos para armazenamento de dados:
 
 ##### _**Data Warehouse**_
-
 
 Sistema de armazenamento de dados com um _schema_ predefinido, porém podendo receber dados de diferentes fontes, voltado para suportar decisões de negócio.
 
