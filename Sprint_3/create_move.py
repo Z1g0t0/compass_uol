@@ -1,6 +1,5 @@
 import os
 import shutil
-import subprocess
 
 files_path = 'D:/Documents/Compass_uol/Sprint_3/'
 
