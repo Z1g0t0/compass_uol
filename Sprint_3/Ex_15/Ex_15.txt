@@ -1,0 +1,2 @@
+A lâmpada está ligada? True
+A lâmpada ainda está ligada? False

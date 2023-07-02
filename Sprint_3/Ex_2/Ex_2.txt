@@ -1,0 +1,3 @@
+Digite um número: Par: 24
+Digite um número: Ímpar: 33
+Digite um número: Ímpar: 99

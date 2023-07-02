@@ -1,0 +1,6 @@
+A palavra: maça não é um palíndromo
+A palavra: arara é um palíndromo
+A palavra: audio não é um palíndromo
+A palavra: radio não é um palíndromo
+A palavra: radar é um palíndromo
+A palavra: moto não é um palíndromo
