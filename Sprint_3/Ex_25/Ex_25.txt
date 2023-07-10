@@ -1,0 +1,3 @@
+O avião de modelo BOIENG456 possui uma velocidade máxima de 1500 km/h capacidade para 400 passageiros e é da cor azul
+O avião de modelo Embraer Praetor 600 possui uma velocidade máxima de 863km/h capacidade para 14 passageiros e é da cor azul
+O avião de modelo Antonov An-2 possui uma velocidade máxima de 258 Km/h capacidade para 12 passageiros e é da cor azul

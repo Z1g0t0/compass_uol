@@ -2,7 +2,7 @@ import os
 import shutil
 import subprocess
 
-files_path = 'D:/Documents/Compass_uol/Sprint_3/'
+files_path = 'D:/Documents/REPOS/Compass_UOL/Sprints/Sprint_3/'
 
 for filename in os.listdir(files_path):
     #breakpoint()
