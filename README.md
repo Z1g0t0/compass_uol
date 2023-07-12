@@ -109,4 +109,24 @@ Armazenamento de dados com um fim especifico, podendo receber dados de formatos 
 
 ## :runner: __Sprint 3__:
 
-...
+#### :snake: **Python**
+
+Como também mencionado, já estava familiarizado com _python_ devido a um estágio anterior, usei o conteúdo da udemy para revisar os conceitos de programação orientada a objetos, como classes, herança, herança múltipla, etc.
+
+Um exemplo de herança múltipla usando classes:
+
+´´´
+class Azul:
+    rgBLUE = '0000FF'
+
+class Vermelho:
+    REDgb = 'FF0000'
+
+class Roxo( Azul, Vermelho ):
+    REDgBLUE = 'FF00FF'
+
+if __name__ == '__main__':
+    roxo = Roxo()
+    print(f'Azul: {roxo.rgBLUE}, Vermelho: {roxo.REDgb}, Roxo: {roxo.REDgBLUE}')
+
+´´´
