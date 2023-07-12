@@ -115,7 +115,7 @@ Como também mencionado, já estava familiarizado com _python_ devido a um está
 
 Um exemplo de herança múltipla usando classes:
 
-´´´
+```
 class Azul:
     rgBLUE = '0000FF'
 
@@ -129,4 +129,4 @@ if __name__ == '__main__':
     roxo = Roxo()
     print(f'Azul: {roxo.rgBLUE}, Vermelho: {roxo.REDgb}, Roxo: {roxo.REDgBLUE}')
 
-´´´
+```
