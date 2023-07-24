@@ -133,7 +133,41 @@ if __name__ == '__main__':
 ## :runner: __Sprint 4__:
 
 #### :curly_loop: **Python Funcional**
+Como continuação da _sprint_ anterior, foi visto o paradigma funcional e as ferramentas que o _python_ oferece sobre, sendo visto métodos como _map_, _filter_, _reduce_, entre outros, que possibilitam solucionar problemas de maneira enxuta, sofiticada e com outra maneira de se pensar/programar.
+
+Como exempo, a solução do exercício 2 feito na _sprint_, implementando um método que conta as vogais de uma _string_ ou texto:
+
+```
+def conta_vogais(texto:str)-> int:
+    vogais = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
+    
+    count = filter(lambda x: x in vogais, texto)
+    
+    return len(list(count))
+```
+
+#### :whale: **Docker**
+Assim como _python_ funcional, pode-se dizer que docker também oferece um paradigma diferente de virtualização, com a execução de programas e/ou sistemas a partir da contrução de uma imagem, com as informações e instruções necessária pré-determinadas, onde estas são executadas em containers, que seriam ambientes isolados tendo o que for necessário para a execução da imagem.
+
+Um exemplo de _Dockerfile_ usado no exercício da _sprint_, que executa um _script_ _python_ "_hash.py_":
+
+```
+FROM python
+
+WORKDIR /test
+
+COPY hash.py .
+CMD ["python", "hash.py"]
+```
+
+E o comando para construir e executar a imagem:
+
+```
+docker build -t mascarar-dados .
+docker run -it mascarar-dados
+```
 
 #### :chart_with_downwards_trend: **Estatística Descritiva com Python**
 
-#### :whale: **Docker**
+## :runner: __Sprint 5__:
+...
