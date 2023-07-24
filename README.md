@@ -131,4 +131,9 @@ if __name__ == '__main__':
 ```
 
 ## :runner: __Sprint 4__:
-...
+
+#### :curly_loop: **Python Funcional**
+
+#### ::chart_with_upwards_trend: **Estatística Descritiva com Python**
+
+#### :whale: **Docker**
