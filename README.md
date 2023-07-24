@@ -134,6 +134,6 @@ if __name__ == '__main__':
 
 #### :curly_loop: **Python Funcional**
 
-#### ::chart_with_upwards_trend: **Estatística Descritiva com Python**
+#### :chart_with_downwards_trend: **Estatística Descritiva com Python**
 
 #### :whale: **Docker**
