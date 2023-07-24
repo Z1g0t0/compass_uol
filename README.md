@@ -14,11 +14,11 @@ Gosto de jogar online, conversar com amigos no discord e ocasionalmente editar v
 
 ## :runner: __Sprint 1__:
 
-Durante esta primeira _sprint_ fui o líder da _squad_ 5. Procurei demonstrar iniciativa no quesito de discussão sobre o material passado, propus reunirmos antes das _dailys_ para tirarmos dúvidas de uns aos outros, acompanhar o progresso de cada um, e passar um pouco da experiência que tive pois já havia usado as tecnologias passadas em um estágio anterior.
+Durante esta primeira _sprint_ fui o líder da _squad_ 5. Procurei demonstrar iniciativa no quesito de discussão sobre o material passado, propus reunirmos antes das _dailies_ para tirarmos dúvidas de uns aos outros, acompanhar o progresso de cada um, e passar um pouco da experiência que tive pois já havia usado as tecnologias passadas em um estágio anterior.
 
 #### :rugby_football: SCRUM:
 
-Como mencionado, no estágio anterior já tive experiência com _scrum_, assim como nas _dailys_ desta primeira sprint, participando de reuniões diárias relatando o progresso e eventuais problemas que impediam ou postergavam a evolução das _tasks_ e/ou estudos. O curso ajudou a esclarecer melhor as responsabilidades do _**Product Owner**_ e _**Scrum Master**_.
+Como mencionado, no estágio anterior já tive experiência com _scrum_, assim como nas _dailies_ desta primeira sprint, participando de reuniões diárias relatando o progresso e eventuais problemas que impediam ou postergavam a evolução das _tasks_ e/ou estudos. O curso ajudou a esclarecer melhor as responsabilidades do _**Product Owner**_ e _**Scrum Master**_.
 
 1. **Product Owner**:
 
@@ -54,7 +54,7 @@ git push
 
 #### :penguin: **Linux**:
 
-Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Possuo um _notebook_ com ubuntu instalado e sempre gostei do editor _vim_ junto com _tmux_ desde o primeiro contato que tive e é o que eu sempre ultilizo para programar. 
+Também já estava familiarizado com os comandos de _linux_, conceitos relacionados a arquivos e diretórios, permissões, e comandos relacionados a rede. Possuo um _notebook_ com _ubuntu_ instalado e sempre gostei do editor _vim_ junto com _tmux_ desde o primeiro contato que tive e é o que eu sempre utilizo para programar. 
 
 Um exemplo de comandos utilizados na criação deste repositório:
 ```
