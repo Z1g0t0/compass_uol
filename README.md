@@ -133,9 +133,9 @@ if __name__ == '__main__':
 ## :runner: __Sprint 4__:
 
 #### :curly_loop: **Python Funcional**
-Como continuação da _sprint_ anterior, foi visto o paradigma funcional e as ferramentas que o _python_ oferece sobre, sendo visto métodos como _map_, _filter_, _reduce_, entre outros, que possibilitam solucionar problemas de maneira enxuta, sofiticada e com outra maneira de se pensar/programar.
+Como continuação da _sprint_ anterior, foi visto o paradigma funcional e as ferramentas que o _python_ oferece sobre, sendo visto métodos como _map_, _filter_, _reduce_, entre outros, que possibilitam solucionar problemas de maneira enxuta, sofisticada e com outra maneira de se pensar/programar.
 
-Como exempo, a solução do exercício 2 feito na _sprint_, implementando um método que conta as vogais de uma _string_ ou texto:
+Como exempo, a solução do exercício 2 feito na _sprint_, implementando uma função que conta as vogais de uma _string_ ou texto:
 
 ```
 def conta_vogais(texto:str)-> int:
@@ -167,7 +167,11 @@ docker build -t mascarar-dados .
 docker run -it mascarar-dados
 ```
 
+Vale lembrar em verificar se o serviço do _docker_ está rodando :sweat_smile:
+
 #### :chart_with_downwards_trend: **Estatística Descritiva com Python**
+
+Como já havia cursado a matéria de probabilidade e estatística com a didática muito parecida com a do curso, usei os vídeos como revisão dos conceitos gerais, como o de variância, desvio padrão, método de monte carlo, etc.
 
 ## :runner: __Sprint 5__:
 ...
