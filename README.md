@@ -139,6 +139,7 @@ Como exempo, a solução do exercício 2 feito na _sprint_, implementando uma fu
 
 ```
 def conta_vogais(texto:str)-> int:
+
     vogais = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
     
     count = filter(lambda x: x in vogais, texto)
