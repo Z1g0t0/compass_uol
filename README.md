@@ -1,11 +1,11 @@
 # __Eduardo Takeshi Voltareli Suzuki__
 
-### [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/linkedin-logo-icon.png" width="" height="33">](https://www.linkedin.com/in/eduardo-suzuki888/) [<img src="imgs/aws-cloud-quest-cloud-practitioner.png" width="" height="33">](https://www.credly.com/badges/b30c914f-127a-4ddd-9b57-124493b2f993/public_url)
+### [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/Linkedin-logo-icon.png" width="" height="33">](https://www.linkedin.com/in/eduardo-suzuki888/) [<img src="imgs/aws-cloud-quest-cloud-practitioner.png" width="" height="33">](https://www.credly.com/badges/b30c914f-127a-4ddd-9b57-124493b2f993/public_url)
 
 
 <br>
 
-saudações, sou estudante de sistemas de informação na utfpr, sede de curitiba, onde também moro, e atualmente estou no 6º período. originalmente venho do interior de são paulo, cidade de presidente prudente, onde cursei brevemente ciência da computação pela unesp de lá.
+Saudações, sou estudante de sistemas de informação na utfpr, sede de curitiba, onde também moro, e atualmente estou no 6º período. originalmente venho do interior de são paulo, cidade de presidente prudente, onde cursei brevemente ciência da computação pela unesp de lá.
 
 há algum tempo já venho tendo interesse na área de análise/ciência/engenharia de dados e à procura de uma oportunidade de estágio relacionado, inclusive cursando uma matéria optativa de introdução a ciência de dados ofertada pela universidade.
 
