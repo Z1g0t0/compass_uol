@@ -2,7 +2,7 @@
 [eduardo.suzuki.pb@compasso.com.br](mailto:eduardo.suzuki.pb@compasso.com.br)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/Linkedin-logo-icon.png" width="" height="27">](https://www.linkedin.com/in/eduardo-suzuki888/) 
 [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) 
 
-<br>
+___
 
 Saudações, sou estudante de Sistemas de Informação na UTFPR, sede de Curitiba, onde também moro, e atualmente estou no 6º período. Originalmente venho do interior de São Paulo, cidade de Presidente Prudente, onde cursei brevemente Ciência da Computação pela UNESP de lá.
 
