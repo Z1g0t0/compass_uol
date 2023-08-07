@@ -175,4 +175,9 @@ Vale lembrar em verificar se o serviço do _docker_ está rodando :sweat_smile:
 Como já havia cursado a matéria de probabilidade e estatística com a didática muito parecida com a do curso, usei os vídeos como revisão dos conceitos gerais, como o de variância, desvio padrão, método de monte carlo, etc.
 
 ## :runner: __Sprint 5__:
+
+Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a _AWS(Amazon Web Services)_, assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Componentes AWS fundamentais abordados durante esta _sprint_ foram:
+
+#### Elastic Compute Cloud(EC2):
 ...
+
