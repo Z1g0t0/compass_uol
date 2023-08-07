@@ -175,7 +175,7 @@ Como já havia cursado a matéria de probabilidade e estatística com a didátic
 
 ## :runner: __Sprint 5__:
 
-Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a AWS(_Amazon Web Services_), assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Componentes AWS fundamentais abordados durante esta _sprint_ foram:
+Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a AWS(_Amazon Web Services_), assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Principais tecnologias AWS abordados durante esta _sprint_ foram:
 
 #### :left_right_arrow: Elastic Compute Cloud (EC2):
 Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando escabilidade tanto para cima quanto para baixo conforme a necessidade, com diversas opções de configuração tanto para hardware quanto para software.
@@ -184,7 +184,7 @@ Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de proc
 Serviço para armazenamento de dados orientado a objetos, de alta disponibilidade, segurança, performance e escalabilidade, oferencendo uma variedade de tipos de classes para diversos casos de uso, com ferramentas de gerenciamento de armazenamento, acesso, processamento, monitoramento, etc.
 
 #### :repeat: Relational Database Service (RDS):
-Serviço para base de dados relacionais, oferecendo facilidade para criação, operação e escalabilidade, com compatibilidade a outras engines de base de dados como _MySQL_, _PostgreSQL_, _Oracle_, entre outros.
+Serviço para base de dados relacionais, oferecendo facilidade para criação, operação e escalabilidade, com compatibilidade a outras _engines_ de base de dados como _MySQL_, _PostgreSQL_, _Oracle's DBMS_, entre outros.
 
 #### :twisted_rightwards_arrows: Virtual Private Cloud (VPC):
 Serviço de rede virtualmente isolada para execução de outros serviços e recursos AWS, facilitando a organização e administração para roteamento de diferentes zonas de disponibilidade, endereçamentos IP, etc.
