@@ -178,17 +178,19 @@ Como já havia cursado a matéria de probabilidade e estatística com a didátic
 Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a AWS(_Amazon Web Services_), assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Componentes AWS fundamentais abordados durante esta _sprint_ foram:
 
 #### :left_right_arrow: Elastic Compute Cloud (EC2):
-...
-
+Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando escabilidade tanto para cima quanto para baixo conforme a necessidade, com diversas opções de configuração tanto para hardware quanto para software.
 
 #### :symbols: Simple Storage Service (S3):
-...
+Serviço para armazenamento de dados orientado a objetos, de alta disponibilidade, segurança, performance e escalabilidade, oferencendo uma variedade tipos de classes para diversos casos de uso, com ferramentas de gerenciamento de armazenamento, acesso, processamento, monitoramento, etc.
 
 #### :repeat: Relational Database Service (RDS):
-...
+Serviço para base de dados relacionais, oferecendo facilidade para criação, operação e escalabilidade, com compatibilidade a outras engines de base de dados como _MySQL_, _PostgreSQL_, _Oracle_, entre outros.
 
 #### :twisted_rightwards_arrows: Virtual Private Cloud (VPC):
-...
+Serviço de rede virtualmente isolada para execução de outros serviços e recursos AWS, facilitando a organização e administração para o acesso de usuários para certos recursos, roteamento para diferentes zonas de disponibilidade, endereçamentos IP, etc.
 
 #### :left_luggage: Identity Access Management (IAM):
+...
+
+## :runner: __Sprint 6__:
 ...
