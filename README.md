@@ -193,3 +193,4 @@ Serviço de rede virtualmente isolada para execução de outros serviços e recu
 Serviço para gerenciamento de permissões e controle de acesso de usuários a determinados recursos AWS, podendo ser acessado através da AWS's _Management Console_, _Command Line Tools_ ou suas SDK's (_Software Development Kits_).
 
 ## :runner: __Sprint 6__:
+...
