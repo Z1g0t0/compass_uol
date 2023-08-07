@@ -178,6 +178,6 @@ Como já havia cursado a matéria de probabilidade e estatística com a didátic
 
 Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a _AWS(Amazon Web Services)_, assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Componentes AWS fundamentais abordados durante esta _sprint_ foram:
 
-#### Elastic Compute Cloud(EC2):
+#### :left_right_arrow: Elastic Compute Cloud (EC2):
 ...
 
