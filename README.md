@@ -176,7 +176,7 @@ Como já havia cursado a matéria de probabilidade e estatística com a didátic
 
 ## :runner: __Sprint 5__:
 
-Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a _AWS(Amazon Web Services)_, assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Principais tecnologias AWS abordados durante esta _sprint_ foram:
+Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a AWS(_Amazon Web Services_), assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Principais tecnologias AWS abordados durante esta _sprint_ foram:
 
 #### :left_right_arrow: Elastic Compute Cloud (EC2):
 ...
@@ -185,7 +185,7 @@ Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que 
 #### :symbols: Simple Storage Service (S3):
 ...
 
-#### :twisted_rightwards_arrows: Relational Database Service (RDS):
+#### :repeat: Relational Database Service (RDS):
 ...
 
 #### :twisted_rightwards_arrows: Virtual Private Cloud (VPC):
