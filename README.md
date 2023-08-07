@@ -1,6 +1,6 @@
 # __Eduardo Takeshi Voltareli Suzuki__ &emsp;&emsp;&emsp;&emsp;&emsp; [<img src="imgs/aws-cloud-quest-cloud-practitioner.png" width="" height="55">](https://www.credly.com/badges/b30c914f-127a-4ddd-9b57-124493b2f993/public_url) [<img src="imgs/aws-partner-sales-accreditation-business.png" width="" height="55">](https://www.credly.com/badges/1023f226-498d-42ac-a5b0-f96fb1574ef1/public_url)
 
-[eduardo.suzuki.pb@compasso.com.br](mailto:eduardo.suzuki.pb@compasso.com.br)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/Linkedin-logo-icon.png" width="" height="33">](https://www.linkedin.com/in/eduardo-suzuki888/) 
+[eduardo.suzuki.pb@compasso.com.br](mailto:eduardo.suzuki.pb@compasso.com.br)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/Linkedin-logo-icon.png" width="" height="33">](https://www.linkedin.com/in/eduardo-suzuki888/) 
 [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) 
 
 <br>
