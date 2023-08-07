@@ -188,7 +188,8 @@ Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que 
 #### :twisted_rightwards_arrows: Relational Database Service (RDS):
 ...
 
-#### :cloud: Virtual Private Cloud (VPC):
+#### :twisted_rightwards_arrows: Virtual Private Cloud (VPC):
 ...
 
 #### :left_luggage: Identity Access Management (IAM):
+...
