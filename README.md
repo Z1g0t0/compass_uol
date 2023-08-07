@@ -178,7 +178,7 @@ Como já havia cursado a matéria de probabilidade e estatística com a didátic
 Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a AWS(_Amazon Web Services_), assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Principais tecnologias AWS abordados durante esta _sprint_ foram:
 
 #### :left_right_arrow: Elastic Compute Cloud (EC2):
-Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando escabilidade tanto para cima quanto para baixo conforme a necessidade, com diversas opções de configuração para _hardware_(memória, armazenamento, processador, etc.) e de _software_(sistema operacional, _drivers_, etc.)
+Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando aumentar ou diminuir a escalabilidade conforme a necessidade, com diversas opções de configuração para _hardware_(memória, armazenamento, processador, etc.) e de _software_(sistema operacional, _drivers_, etc.)
 
 #### :symbols: Simple Storage Service (S3):
 Serviço para armazenamento de dados orientado a objetos, de alta disponibilidade, segurança, performance e escalabilidade, oferencendo uma variedade de tipos de classes para diversos casos de uso, com ferramentas de gerenciamento de armazenamento, acesso, processamento, monitoramento, etc.
