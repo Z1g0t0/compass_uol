@@ -181,3 +181,9 @@ Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que 
 #### :left_right_arrow: Elastic Compute Cloud (EC2):
 ...
 
+
+#### :symbols: Simple Storage Service (S3):
+...
+
+#### :twisted_rightwards_arrows: Relational Database Service(RDS):
+...
