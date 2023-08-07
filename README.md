@@ -1,4 +1,4 @@
-# __Eduardo Takeshi Voltareli Suzuki__ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/aws-cloud-quest-cloud-practitioner.png" width="" height="55">](https://www.credly.com/badges/b30c914f-127a-4ddd-9b57-124493b2f993/public_url) [<img src="imgs/aws-partner-sales-accreditation-business.png" width="" height="55">](https://www.credly.com/badges/1023f226-498d-42ac-a5b0-f96fb1574ef1/public_url)
+# __Eduardo Takeshi Voltareli Suzuki__ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/aws-cloud-quest-cloud-practitioner.png" width="" height="69">](https://www.credly.com/badges/b30c914f-127a-4ddd-9b57-124493b2f993/public_url) [<img src="imgs/aws-partner-sales-accreditation-business.png" width="" height="69">](https://www.credly.com/badges/1023f226-498d-42ac-a5b0-f96fb1574ef1/public_url)
 [eduardo.suzuki.pb@compasso.com.br](mailto:eduardo.suzuki.pb@compasso.com.br)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<img src="imgs/Linkedin-logo-icon.png" width="" height="27">](https://www.linkedin.com/in/eduardo-suzuki888/) 
 [eduardo.suzuki8@hotmail.com](mailto:eduardo.suzuki8@hotmail.com) 
 #
@@ -178,7 +178,7 @@ Como já havia cursado a matéria de probabilidade e estatística com a didátic
 Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que se baseiam a AWS(_Amazon Web Services_), assim como a execução de tarefas práticas com suas ferramentas e seus respectivos serviços. Principais tecnologias AWS abordados durante esta _sprint_ foram:
 
 #### :left_right_arrow: Elastic Compute Cloud (EC2):
-Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando aumentar ou diminuir a escalabilidade conforme a necessidade, com diversas opções de configuração para _hardware_(memória, armazenamento, processador, etc.) e de _software_(sistema operacional, _drivers_, etc.)
+Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando aumentar ou diminuir a escalabilidade conforme a necessidade, com diversas opções de configuração para _hardware_(memória, armazenamento, processador, etc.) e para _software_(sistema operacional, _drivers_, etc.)
 
 #### :symbols: Simple Storage Service (S3):
 Serviço para armazenamento de dados orientado a objetos, de alta disponibilidade, segurança, performance e escalabilidade, oferencendo uma variedade de tipos de classes para diversos casos de uso, com ferramentas de gerenciamento de armazenamento, acesso, processamento, monitoramento, etc.
