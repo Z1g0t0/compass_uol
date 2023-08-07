@@ -185,10 +185,11 @@ Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que 
 #### :symbols: Simple Storage Service (S3):
 ...
 
-#### :twisted_rightwards_arrows: Relational Database Service (RDS):
+#### :repeat: Relational Database Service (RDS):
 ...
 
-#### :repeat: Virtual Private Cloud (VPC):
+#### :twisted_rightwards_arrows: Virtual Private Cloud (VPC):
 ...
 
 #### :left_luggage: Identity Access Management (IAM):
+...
