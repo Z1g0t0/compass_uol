@@ -181,16 +181,15 @@ Durante esta _sprint_ foi o primeiro contato com os princípios e conceitos que 
 Amazon EC2 permite uma melhor eficiência no uso de recursos sob demanda de processamento, possibilitando escabilidade tanto para cima quanto para baixo conforme a necessidade, com diversas opções de configuração tanto para hardware quanto para software.
 
 #### :symbols: Simple Storage Service (S3):
-Serviço para armazenamento de dados orientado a objetos, de alta disponibilidade, segurança, performance e escalabilidade, oferencendo uma variedade tipos de classes para diversos casos de uso, com ferramentas de gerenciamento de armazenamento, acesso, processamento, monitoramento, etc.
+Serviço para armazenamento de dados orientado a objetos, de alta disponibilidade, segurança, performance e escalabilidade, oferencendo uma variedade de tipos de classes para diversos casos de uso, com ferramentas de gerenciamento de armazenamento, acesso, processamento, monitoramento, etc.
 
 #### :repeat: Relational Database Service (RDS):
 Serviço para base de dados relacionais, oferecendo facilidade para criação, operação e escalabilidade, com compatibilidade a outras engines de base de dados como _MySQL_, _PostgreSQL_, _Oracle_, entre outros.
 
 #### :twisted_rightwards_arrows: Virtual Private Cloud (VPC):
-Serviço de rede virtualmente isolada para execução de outros serviços e recursos AWS, facilitando a organização e administração para o acesso de usuários para certos recursos, roteamento para diferentes zonas de disponibilidade, endereçamentos IP, etc.
+Serviço de rede virtualmente isolada para execução de outros serviços e recursos AWS, facilitando a organização e administração para roteamento de diferentes zonas de disponibilidade, endereçamentos IP, etc.
 
 #### :left_luggage: Identity Access Management (IAM):
-...
+Serviço para gerenciamento de permissões e controle de acesso de usuários a determinados recursos AWS, podendo ser acessado através da AWS's _Management Console_, _Command Line Tools_ ou suas SDK's (_Software Development Kits_).
 
 ## :runner: __Sprint 6__:
-...
