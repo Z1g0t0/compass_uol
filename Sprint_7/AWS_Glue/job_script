@@ -1,0 +1,67 @@
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+
+## @params: [JOB_NAME]
+args = getResolvedOptions(sys.argv, ['JOB_NAME', 'S3_INPUT_PATH', 'S3_TARGET_PATH'])
+
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+job.init(args['JOB_NAME'], args)
+
+source_file = args['S3_INPUT_PATH']
+target_path = args['S3_TARGET_PATH']
+
+df = glueContext.create_dynamic_frame.from_options(
+    "s3",
+    {
+        "paths": [
+            source_file
+        ]
+    },
+    "csv",
+    {"withHeader": True, "separator":","},
+)
+
+#only_1934 = df.filter(lambda row: row['ano']=='1934')
+#
+#glueContext.write_dynamic_frame.from_options(
+#    frame = only_1934 ,
+#    connection_type = "s3",
+#    connection_options = {"path": target_path},
+#    format = "parquet")
+
+spark_df = df.toDF()
+spark_df = spark_df.withColumn('total', spark_df.total.cast('int'))
+spark_df = spark_df.withColumn('ano', spark_df.ano.cast('int'))
+
+spark_df.printSchema()
+
+import pyspark.sql.functions as f
+
+spark_df = spark_df.withColumn('nome', f.upper('nome'))
+
+print(spark_df.count())
+
+df2 = spark_df.groupBy('ano', 'sexo').count().sort(f.desc('ano'))
+df2.show()
+
+df3 = spark_df.filter(spark_df.sexo == 'F')
+df3 = df3.sort(df3.total.desc())
+df3.show(1)
+
+df4 = spark_df.filter(spark_df.sexo == 'M')
+df4 = df4.sort(df4.total.desc())
+df4.show(1)
+
+df5 = spark_df.groupBy('ano').count().sort('ano')
+df5.show(10)
+
+spark_df.write.partitionBy('sexo', 'ano').json(target_path, mode="overwrite")
+
+job.commit()
