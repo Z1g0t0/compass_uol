@@ -287,8 +287,7 @@ Trata-se de organizar os dados de priorizando a integridade, consistencia e prec
 &emsp;&emsp;<ins>Segunda Forma Normal</ins>: Evitar/separar atributos com dependências parciais, isto é, atributos que não dependem diretamente da chave primária.
 <br>
 
-&emsp;&emsp;Terceira Forma Normal: Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
-
+&emsp;&emsp;<ins>Terceira Forma Normal</ins>: Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
 #### :arrow_up_down: Modelagem dimensional:
 Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa, com fatos e contextos/dimensões, a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc. Um exemplo de criação de um fato a partir da base de dados _concecionaria.sqlite_, disponibilizada como _resource_:
