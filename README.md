@@ -284,7 +284,13 @@ Trata-se de organizar os dados de priorizando a integridade, consistencia e prec
     3. Forma Normal: Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
 #### :arrow_up_down: Modelagem dimensional:
-Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc.
+Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc. Um exemplo de criação de um fato a partir da base de dados concecionária.sqlite, disponibilizada como _resource_:
+
+```
+create view fato_conta as
+    select distinct idCliente, idVendedor, vlrDiaria, qtdDiaria, vlrDiaria * qtdDiaria as total 
+    from tb_locacao
+```
 
 ## :runner: __Sprint 10__:
 ...
