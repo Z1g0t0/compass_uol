@@ -201,7 +201,7 @@ Serviço para processamento de dados em larga escala em tempo real, que podem se
 #### :statue_of_liberty: Amazon Athena:
 Serviço que permite fazer consultas _SQL_ de forma interativa, sendo _serverless_, é uma maneira convencional e simples de se extrair os dados.
 
-#### :mag_left: Amazon Quicksight:
+#### :mag: Amazon Quicksight:
 Serviço orientado a _business intelligence_ para construção de _dashboards_ interativos que oferecem _insights_ para melhor informar e suportar decisões sobre algum produto/serviço sendo analisado, tendo a opção de se utilizar _machine learning_ dentro de seus _insights_.
 
 #### :red_circle: Amazon RedShift:
@@ -235,7 +235,6 @@ if __name__ == '__main__':
                              aws_secret_access_key=secret)
 
     response_1 = s3_client.upload_file(r'./movies.csv', 'data-lake-do-eduardo', f'Raw\Local\CSV\Movies\{year}\{month}\{day}\movies.csv')
-
     response_2 = s3_client.upload_file(r'./series.csv', 'data-lake-do-eduardo', f'Raw\Local\CSV\series\{year}\{month}\{day}\series.csv')
 
     #print(f'RESPOSTA 1: {response_1} \n')
@@ -261,11 +260,12 @@ data = response.json()
 filmes = []
 
 for movie in data['results']:
-    df = {'Titulo': movie['title'],
-    'Data de lançamento': movie['release_date'],
-    'Visão geral': movie['overview'],
-    'Votos': movie['vote_count'],
-    'Média de votos:': movie['vote_average']}
+    df = {
+        'Titulo': movie['title'],
+        'Sinopse': movie['overview'],
+        'Votos': movie['vote_count'],
+        'Media': movie['vote_average']
+    }
 
     filmes.append(df)
 
