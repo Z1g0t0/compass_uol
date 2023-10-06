@@ -193,4 +193,26 @@ Serviço de rede virtualmente isolada para execução de outros serviços e recu
 Serviço para gerenciamento de permissões e controle de acesso de usuários a determinados recursos AWS, podendo ser acessado através da AWS's _Management Console_, _Command Line Tools_ ou suas SDK's (_Software Development Kits_).
 
 ## :runner: __Sprint 6__:
-...
+Foram apresentados muito mais serviços AWS, desta vez mais voltados para a área de análise de dados, serviços estes como _Kinesis_, _Athena_, _QuickSight_, _Redshift_, _IoT Analytics_, entre outros. Um pouco das funções de alguns deles são:
+
+#### :surfer: Amazon Kinesis:
+Serviço para processamento de dados em larga escala em tempo real, que podem ser oriundos de diversas fontes, inclusive outros serviços, entregando dados para análise mais rapidamente.
+
+#### :statue_of_liberty: Amazon Athena:
+Serviço que permite fazer consultas _SQL_ de forma interativa, sendo _serverless_, é uma maneira convencional e simples de se extrair os dados.
+
+#### :mag_right: Amazon Quicksight:
+Serviço orientado a _business intelligence_ para construção de _dashboards_ interativos que oferecem _insights_ para melhor informar e suportar decisões sobre algum produto/serviço sendo analisado, tendo a opção de se utilizar _machine learning_ dentro de seus _insights_.
+
+#### :red_circle: Amazon RedShift:
+Um dos principais serviços aws, orientado para processamento e análise de grande quantidade de dados complexos, ou seja, podendo ser semi-estruturados, sendo assim uma solução de _big data_ para _data warehouses_.
+
+
+## :runner: __Sprint 7__:
+Em andamento
+
+## :runner: __Sprint 8__:
+Em andamento
+
+## :runner: __Sprint 9__:
+Em andamento
