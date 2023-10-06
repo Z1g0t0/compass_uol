@@ -291,7 +291,7 @@ Trata-se de organizar os dados de priorizando a integridade, consistencia e prec
 
 
 #### :arrow_up_down: Modelagem dimensional:
-Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa, com fatos e contextos/dimensões, a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc. Um exemplo de criação de um fato a partir da base de dados concecionaria.sqlite, disponibilizada como _resource_:
+Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa, com fatos e contextos/dimensões, a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc. Um exemplo de criação de um fato a partir da base de dados _concecionaria.sqlite_, disponibilizada como _resource_:
 
 ```
 create view fato_conta as
