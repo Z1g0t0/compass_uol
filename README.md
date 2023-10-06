@@ -190,7 +190,7 @@ Serviço para base de dados relacionais, oferecendo facilidade para criação, o
 Serviço de rede virtualmente isolada para execução de outros serviços e recursos AWS, facilitando a organização e administração de roteamento, endereçamentos IP, _peering connections_ para tráfego entre duas VPCs, etc.
 
 #### :left_luggage: Identity Access Management (IAM):
-Serviço para gerenciamento de permissões e controle de acesso de usuários a determinados recursos AWS, podendo ser acessado através da AWS's _Management Console_, _Command Line Tools_ ou suas SDK's (_Software Development Kits_).
+Serviço para gerenciamento de permissões e controle de acesso de usuários a determinados recursos AWS, podendo ser acessado através da _AWS's Management Console_, _Command Line Tools_ ou suas SDK's (_Software Development Kits_).
 
 ## :runner: __Sprint 6__:
 Foram apresentados muito mais serviços AWS, desta vez mais voltados para a área de análise de dados, serviços estes como _Kinesis_, _Athena_, _QuickSight_, _Redshift_, _IoT Analytics_, entre outros. Um pouco das funções de alguns deles são:
@@ -201,18 +201,78 @@ Serviço para processamento de dados em larga escala em tempo real, que podem se
 #### :statue_of_liberty: Amazon Athena:
 Serviço que permite fazer consultas _SQL_ de forma interativa, sendo _serverless_, é uma maneira convencional e simples de se extrair os dados.
 
-#### :mag_right: Amazon Quicksight:
+#### :mag_left: Amazon Quicksight:
 Serviço orientado a _business intelligence_ para construção de _dashboards_ interativos que oferecem _insights_ para melhor informar e suportar decisões sobre algum produto/serviço sendo analisado, tendo a opção de se utilizar _machine learning_ dentro de seus _insights_.
 
 #### :red_circle: Amazon RedShift:
-Um dos principais serviços aws, orientado para processamento e análise de grande quantidade de dados complexos, ou seja, podendo ser semi-estruturados, sendo assim uma solução de _big data_ para _data warehouses_.
+Um dos principais serviços ASA, orientado para processamento e análise de grande quantidade de dados complexos, ou seja, podendo ser semi-estruturados, sendo assim uma solução de _big data_ para _data warehouses_.
 
 
 ## :runner: __Sprint 7__:
-Em andamento
+A partir desta _sprint_ começa a ser feito o desafio final, com o objetivo de apresentar um _dashboard_ interativo com a análise feita sobre o tema relacinado a filmes e séries de um determinado gênero estabelecida para cada _squad_, sendo a _squad_ 5 os gêneros de ação/aventura. 
+
+Também foi introduzido o _PySpark_, API _python_ para o _apache spark_, sendo uma ferramenta extremamente rápida para engenharia e análise de grande quantidade de dados.
+
+Como primeira etapa do desafio, foi proposto uma atividade de ETL(_extraction, transform and load_) em _python_ com alguns arquivos para serem carregados em um _bucket_ S3, utilizando a biblioteca _boto3_, particionados por estágio da extração, data, tipo do arquivos, etc. O código ficou:
+
+```
+import boto3
+import datetime
+import os
+
+if __name__ == '__main__':
+
+    current_time = datetime.datetime.now()
+    year = current_time.year
+    month = current_time.month
+    day = current_time.day
+
+    key_id = os.getenv('AWS_ACCESS_KEY_ID')
+    secret = os.getenv('AWS_SECRET_ACCESS_KEY')
+
+    s3_client = boto3.client('s3',
+                             aws_access_key_id=key_id,
+                             aws_secret_access_key=secret)
+
+    response_1 = s3_client.upload_file(r'./movies.csv', 'data-lake-do-eduardo', f'Raw\Local\CSV\Movies\{year}\{month}\{day}\movies.csv')
+
+    response_2 = s3_client.upload_file(r'./series.csv', 'data-lake-do-eduardo', f'Raw\Local\CSV\series\{year}\{month}\{day}\series.csv')
+
+    #print(f'RESPOSTA 1: {response_1} \n')
+    #print(f'RESPOSTA 2: {response_2} \n')
+
+```
 
 ## :runner: __Sprint 8__:
-Em andamento
+
+_Sprint_ composta por atividades práticas, voltadas a progressão do desafio e exercícios de _pyspark_. Foi desenvolvido uma ingestão de dados a um _data lake_ a partir de _requests_ por uma API escolhida. Não decidi exatamente como será meu tema, mas resolvi extrair dados de votação dos filmes a partir da API oferecida pelo site sugerido TMDB(_The Movie DataBase_). Um exemplo de código para requisitar dados da API e salvar em um arquivo csv:
+
+```
+import requests
+import pandas as pd
+
+api_key = "***"
+
+url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
+
+response = requests.get(url)
+data = response.json()
+
+filmes = []
+
+for movie in data['results']:
+    df = {'Titulo': movie['title'],
+    'Data de lançamento': movie['release_date'],
+    'Visão geral': movie['overview'],
+    'Votos': movie['vote_count'],
+    'Média de votos:': movie['vote_average']}
+
+    filmes.append(df)
+
+df = pd.DataFrame(filmes)
+#df.head()
+df.to_csv('out.csv')
+```
 
 ## :runner: __Sprint 9__:
 Em andamento
