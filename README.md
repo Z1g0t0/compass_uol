@@ -280,6 +280,7 @@ Estudou-se como fazer modelagem de dados de duas maneiras: relacional e dimensio
 #### :ballot_box_with_check: Modelagem relacional:
 Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam: 
 <br>
+<br>
 &emsp;&emsp;Primeira Forma Normal(1FN): Evitar/separar repetições iguais de atributos ou grupo de atributos.
 <br>
 
