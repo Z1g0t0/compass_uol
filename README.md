@@ -283,7 +283,7 @@ Trata-se de organizar os dados de priorizando a integridade, consistencia e prec
     2. Forma Normal: Evitar/separar atributos com dependências parciais, isto é, atributos que não dependem diretamente com a chave primária.
     3. Forma Normal: Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
-#### ::signal_strength: Modelagem dimensional:
+#### :arrow_up_down: Modelagem dimensional:
 Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc.
 
 ## :runner: __Sprint 10__:
