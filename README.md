@@ -94,15 +94,15 @@ Com a geração de dados cada vez maior dia após dia, é necessário entender o
 
 Exemplo de conceitos vistos para armazenamento de dados:
 
-##### _**Data Warehouse**_
+##### :office: _**Data Warehouse**_
 
 Sistema de armazenamento de dados com um _schema_ predefinido, porém podendo receber dados de diferentes fontes, voltado para suportar decisões de negócio.
 
-##### _**Data Lake**_
+##### :sunrise: _**Data Lake**_
 
 Armazenamento de dados estruturados e não estruturados, na sua forma bruta, sem um _schema_ predefinido, podendo receber qualquer tipo de dado.
 
-##### _**Data Store**_
+##### :inbox_tray: _**Data Store**_
 
 Armazenamento de dados com um fim especifico, podendo receber dados de formatos variados, relacionados a uma categoria determinada.
 
@@ -205,7 +205,7 @@ Serviço que permite fazer consultas _SQL_ de forma interativa, sendo _serverles
 Serviço orientado a _business intelligence_ para construção de _dashboards_ interativos que oferecem _insights_ para melhor informar e suportar decisões sobre algum produto/serviço sendo analisado, tendo a opção de se utilizar _machine learning_ dentro de seus _insights_.
 
 #### :red_circle: Amazon RedShift:
-Um dos principais serviços ASA, orientado para processamento e análise de grande quantidade de dados complexos, ou seja, podendo ser semi-estruturados, sendo assim uma solução de _big data_ para _data warehouses_.
+Um dos principais serviços AWS, orientado para processamento e análise de grande quantidade de dados complexos, ou seja, podendo ser semi-estruturados, sendo assim uma solução de _big data_ para _data warehouses_.
 
 
 ## :runner: __Sprint 7__:
