@@ -277,7 +277,7 @@ df.to_csv('out.csv')
 ## :runner: __Sprint 9__:
 Estudou-se como fazer modelagem de dados de duas maneiras: relacional e dimensional, aplicando-as nos dados coletados para o desafio na(s) etapa(s) anterior(es). Um resumo de ambas abordagens:
 
-#### :ballot_box_with_check: Modelagem relacional:
+#### :ballot_box_with_check: Modelagem Relacional:
 Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam: 
 <br>
 <br>
@@ -289,7 +289,7 @@ Trata-se de organizar os dados de priorizando a integridade, consistencia e prec
 
 &emsp;&emsp;<ins>Terceira Forma Normal</ins>: Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
-#### :arrow_up_down: Modelagem dimensional:
+#### :arrow_up_down: Modelagem Dimensional:
 Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa, com fatos e contextos/dimensões, a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc. Um exemplo de criação de um fato a partir da base de dados _concecionaria.sqlite_, disponibilizada como _resource_:
 
 ```
