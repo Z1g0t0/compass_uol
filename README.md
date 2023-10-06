@@ -277,8 +277,9 @@ df.to_csv('out.csv')
 ## :runner: __Sprint 9__:
 Estudou-se como fazer modelagem de dados de duas maneiras: relacional e dimensional, aplicando-as nos dados coletados para o desafio na(s) etapa(s) anterior(es). Um resumo de ambas abordagens:
 
-#### :heavy_check_mark: Modelagem relacional:
-Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam\:
+#### :ballot_box_with_check: Modelagem relacional:
+Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam:
+1.
 
     :one: Forma Normal: Evitar/separar repetições iguais de atributos ou grupo de atributos.
 
