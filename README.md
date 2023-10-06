@@ -278,11 +278,9 @@ df.to_csv('out.csv')
 Estudou-se como fazer modelagem de dados de duas maneiras: relacional e dimensional, aplicando-as nos dados coletados para o desafio na(s) etapa(s) anterior(es). Um resumo de ambas abordagens:
 
 #### :heavy_check_mark: Modelagem relacional:
-Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam:
+Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam:\\
     1. Forma Normal: Evitar/separar repetições iguais de atributos ou grupo de atributos.
-
     2. Forma Normal: Evitar/separar atributos com dependências parciais, isto é, atributos que não dependem diretamente com a chave primária.
-
     3. Forma Normal: Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
 #### :arrow_up_down: Modelagem dimensional:
