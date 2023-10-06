@@ -278,12 +278,15 @@ df.to_csv('out.csv')
 Estudou-se como fazer modelagem de dados de duas maneiras: relacional e dimensional, aplicando-as nos dados coletados para o desafio na(s) etapa(s) anterior(es). Um resumo de ambas abordagens:
 
 #### :ballot_box_with_check: Modelagem relacional:
-Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam: <br>
-&emsp;Primeira Forma Normal(1FN): Evitar/separar repetições iguais de atributos ou grupo de atributos.
+Trata-se de organizar os dados de priorizando a integridade, consistencia e precisão, normalizando os dados proceduralmente nas estabelecidas formas normais. De maneira resumida as 3 primeiras formas normais seriam: 
+<br>
+<br>
+&emsp;&emsp;Primeira Forma Normal(1FN): Evitar/separar repetições iguais de atributos ou grupo de atributos.
+<br>
+&emsp;&emsp;Segunda Forma Normal(2FN): Evitar/separar atributos com dependências parciais, isto é, atributos que não dependem diretamente com a chave primária.
+<br>
+&emsp;&emsp;Terceira Forma Normal(3FN): Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
-    Segunda Forma Normal(2FN): Evitar/separar atributos com dependências parciais, isto é, atributos que não dependem diretamente com a chave primária.
-
-    Terceira Forma Normal(3FN): Evitar/separar atributos que indiretamente dependem da chave primária, isto é, atributos que dependem da chave de primária por meio de outros atributos.
 
 #### :arrow_up_down: Modelagem dimensional:
 Organiza-se os dados priorizando consultas e análises, classificando os dados de maneira objetiva e quantitativa, com fatos e contextos/dimensões, a fim de informar à análise sobre a situação corrente, possíveis _trends_, correlações, padrões, etc. Um exemplo de criação de um fato a partir da base de dados concecionária.sqlite, disponibilizada como _resource_:
