@@ -26,6 +26,7 @@ def save_s3(df):
 
     return bucket.put_object(Key=destination, Body=json_buffer.getvalue())
     
+    
 def lambda_handler(event, context):
     
     # TODO implement
@@ -38,7 +39,8 @@ def lambda_handler(event, context):
     
         #breakpoint()
     
-        url = f"https://api.themoviedb.org/3/discover/movie?api_key={api_key}&include_adult=true&include_video=true&language=pt-BR&page={i}&sort_by=popularity.desc"
+        #url = f"https://api.themoviedb.org/3/discover/movie?api_key={api_key}&include_adult=true&include_video=true&language=pt-BR&page={i}&with_genres=action,adventure&sort_by=popularity.desc"
+        url = f"https://api.themoviedb.org/3/discover/movie?api_key={api_key}&include_adult=true&include_video=true&language=pt-BR&page={i}"
     
         response = requests.get(url)
         data = response.json()
@@ -46,23 +48,11 @@ def lambda_handler(event, context):
         filmes = []
     
         for movie in data['results']:
-            try:
-                df = {
-                    'Titulo': movie['title'],
-                    #'Data de lançamento': movie['release_date'],
-                    'Sinopse': movie['overview'],
-                    'Qtd_votos': movie['vote_count'],
-                    'Media': movie['vote_average']
-                }
-            except KeyError:
-                continue
-            
-            filmes.append(df)
+            filmes.append(movie)
     
         res = pd.concat([res, pd.DataFrame(filmes)], ignore_index=True)
-        res.set_index('Titulo')
     
-    res.drop_duplicates()
+    #res.drop_duplicates()
     if save_s3(res):
     
         return {
