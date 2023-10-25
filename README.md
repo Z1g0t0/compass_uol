@@ -301,7 +301,8 @@ create view fato_conta as
 ## :runner: __Sprint 10__:
 _Sprint_ da entrega final do desafio, sendo um _dashboard_ feito no _QuickSight_, serviço da AWS para visualizações de análises de dados, contendo diversas formas de gráficos, filtros, interações, ações de navegação, entre outras funcionalidades, assim como personalização de cores como um tema aplicado a todo o _dashboard_. Alguns _prints_ dos primeiros painéis do _dashboard_ que construi:
 
-[<img src="imgs/votos.png" width="" height="88">]
-[<img src="imgs/media.png" width="" height="88">]
+<img src="imgs/votos.png" width="" height="123">
+<img src="imgs/media.png" width="" height="123">
 
-## :runner: __Sprint 10__:
+## :runner: Agradecimentos
+... 
