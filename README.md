@@ -304,6 +304,6 @@ _Sprint_ da entrega final do desafio, sendo um _dashboard_ feito no _QuickSight_
 <img src="imgs/media.png" width="" height="333">
 
 ## :pray: Agradecimentos:
-Gostaria de agradecer a esta grande oportunidade do programa de bolsas da Compasso UOL centrada na área de engenharia/análise de dados, sendo uma área que já tinha um grande interesse e vocação de seguir como carreira profissional. Todo material, acompanhamento, programação de atividades e outros recursos foram de grande valor que agregaram muito na fundamentalização e no conhecimento técnico e sobre esta área.
+Gostaria de agradecer a esta grande oportunidade do programa de bolsas da Compasso UOL centrada na área de engenharia/análise de dados, sendo uma área que já tinha um grande interesse e vocação de seguir como carreira profissional. Todo material, acompanhamento, programação de atividades e outros recursos foram de grande valor que agregaram muito na fundamentalização e no conhecimento técnico sobre esta área.
 
 Muito Obrigado! :hand:
