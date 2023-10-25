@@ -299,9 +299,11 @@ create view fato_conta as
 ```
 
 ## :runner: __Sprint 10__:
-_Sprint_ da entrega final do desafio, sendo um _dashboard_ feito no _QuickSight_, serviço da AWS para visualizações de análises de dados, contendo diversas formas de gráficos, filtros, interações, ações de navegação, entre outras funcionalidades, assim como personalização de cores como um tema aplicado a todo o _dashboard_. _Print_ do painel da média de votos dos filmes que analiseis dentro do _dashboard_:
+_Sprint_ da entrega final do desafio, sendo um _dashboard_ feito no _QuickSight_, serviço da AWS para visualizações de análises de dados, contendo diversas formas de gráficos, filtros, interações, ações de navegação, entre outras funcionalidades, assim como personalização de cores como um tema aplicado a todo o _dashboard_. _Print_ do painel da média de votos dos filmes que analiseis dentro do _dashboard_ como exemplo:
 
 <img src="imgs/media.png" width="" height="333">
 
-## :runner: Agradecimentos
-... 
+## :pray: Agradecimentos:
+Gostaria de agradecer a esta grande oportunidade do programa de bolsas da Compasso UOL centrada na área de engenharia/análise de dados, sendo uma área que já tinha um grande interesse e vocação de seguir como carreira profissional. Todo material, acompanhamento, programação de atividades e outros recursos foram de grande valor que agregaram muito na fundamentalização e no conhecimento técnico e sobre esta área.
+
+Muito Obrigado! :hand:
