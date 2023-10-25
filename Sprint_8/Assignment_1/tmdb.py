@@ -13,15 +13,16 @@ data = response.json()
 filmes = []
 
 for movie in data['results']:
-    df = {'Titulo': movie['title'],
-    'Data de lançamento': movie['release_date'],
-    'Visão geral': movie['overview'],
-    'Votos': movie['vote_count'],
-    'Média de votos:': movie['vote_average']}
+    df = {
+        'Titulo': movie['title'],
+        'Data_Lancamento': movie['release_date'],
+        'Sinopse': movie['overview'],
+        'Quantidade_Votos': movie['vote_count'],
+        'Media': movie['vote_average']}
 
     filmes.append(df)
 
 df = pd.DataFrame(filmes)
-#display(df)
+display(df)
 
-df.to_csv('out.csv')
+#df.to_csv('out.csv')
